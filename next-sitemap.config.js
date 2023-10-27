@@ -1,7 +1,7 @@
 // import { CONSTANTS } from './services/config/app-config';
 
 // const siteUrl = `${CONSTANTS.DOMAIN_NAME}`;
-const siteUrl = ``;
+const siteUrl = `http://127.0.0.1:8009`;
 
 module.exports = {
   siteUrl,
